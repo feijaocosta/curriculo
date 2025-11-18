@@ -1,0 +1,173 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Currículo - Feijão Costa</title>
+		<link href="http://www.feijaocosta.com.br/css/estilo.css" rel="stylesheet" type="text/css" />
+
+		<!-- for Google -->
+		<meta name="description" content="Currículo - Feijão Costa" />
+		<meta name="keywords" content="feijao, feijão, feijão costa, currículo feijão costa, band, bandeirantes, cqc, agora é tarde, band.com.br,sambarela, iDeal, Lumina 1, YouTube, Contend ID, Asset Management, Youtube Match" />
+
+		<meta name="author" content="Feijão Costa" />
+		<meta name="copyright" content="FCW Websites" />
+
+		<!-- for Facebook -->          
+		<meta property="og:title" content="Currículo - Feijão Costa" />
+		<meta property="og:type" content="article" />
+		<meta property="og:image" content="http://www.feijaocosta.com.br/css/logo_color.png" />
+		<meta property="og:url" content="http://feijaocosta.com.br/curriculo/" />
+		<meta property="og:description" content="Desenvolvimento de aplicações Web. Gestão e planejamento de projetos de livestreaming e distribuição de vídeos on demand." />
+
+		<!-- for Twitter -->          
+		<meta name="twitter:card" content="summary" />
+		<meta name="twitter:title" content="Currículo - Feijão Costa" />
+		<meta name="twitter:description" content="Gestão e desenvolvimento de Produtos Digitais. Desenvolvimento de aplicações Web. Gestão e planejamento de projetos de livestreaming e distribuição de vídeos on demand." />
+		<meta name="twitter:image" content="http://www.feijaocosta.com.br/css/logo_color.png" />
+
+	</head>
+	<body>
+		<div>
+		<div id="logo">Feijão Costa</div>
+		<div id="share">
+		<div class="fb-like fb_iframe_widget" data-href="http://feijaocosta.com.br/curriculo/" data-layout="box_count" data-action="like" data-show-faces="false" data-share="true" fb-xfbml-state="rendered" fb-iframe-plugin-query="action=like&amp;app_id=141856999267630&amp;container_width=0&amp;href=http%3A%2F%2Ffeijaocosta.com.br%2Fcurriculo%2F&amp;layout=box_count&amp;locale=pt_BR&amp;sdk=joey&amp;share=true&amp;show_faces=false"><span style="vertical-align: bottom; width: 79px; height: 64px;"><iframe name="f1a265f5db1224" width="1000px" height="1000px" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" title="fb:like Facebook Social Plugin" src="https://www.facebook.com/v2.3/plugins/like.php?action=like&amp;app_id=141856999267630&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FLJ9CfGDsgQ7.js%3Fversion%3D42%23cb%3Df79f7f716c9dc%26domain%3Dweb.archive.org%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff19f59e5d401634%26relation%3Dparent.parent&amp;container_width=0&amp;href=http%3A%2F%2Ffeijaocosta.com.br%2Fcurriculo%2F&amp;layout=box_count&amp;locale=pt_BR&amp;sdk=joey&amp;share=true&amp;show_faces=false" class="" style="border: none; visibility: visible; width: 79px; height: 64px;"></iframe></span></div>
+		</div>
+		<h1>Feijão Costa</h1>
+		<h3>Carlos Eduardo Braga da Costa</h3>
+		11-98825-4163<br>
+		feijao@feijaocosta.com.br<br>
+		<a href="http://www.feijaocosta.com.br/">http://www.feijaocosta.com.br</a><br>
+		<br>
+		<hr>
+		<h2>Objetivos:</h2>
+		• Desenvolvimento de aplicações <i>Web</i>.<br>
+		• Gestão e desenvolvimento de Produtos Digitais.<br>
+		<br>
+		<br>
+		<h2>Linguagens:</h2>
+		PHP, MySQL, Javascript, Python, Html5 e CSS<br>
+		<br>
+		<br>
+		<h2>Formação:</h2>
+		2000 – 2003<br>
+		<h3>Design Digital – Universidade Anhembi Morumbi.</h3>
+		<br>
+		1996 – 1998<br>
+		<h3>Técnico em Eletrônica – ETESP – Escola Técnica Estadual de São Paulo.</h3>
+		<br>
+		<br>
+		<h2>Experiência Profissional:</h2>
+		09/2016 – Atualmente<br>
+		<h3>FCW Websites – <i>Freelancer</i></h3>
+		<li>
+			Desenvolvimento de sites e plugins para Wordpress como <i>freelancer</i> para alguns parceiros. Também prestando consultoria de Marketing digital para algumas micro e pequenas empresas de segmentos variados.
+		</li>
+
+		<hr>
+
+		06/2019 – 04/2023<br>
+		<h3>Live eCommerce – <i>Gerente de Tecnologia</i></h3>
+		<li>
+			<h4>03/2021 - 04/2023</h4><b>Gerente de Tecnologia</b><br>Gestão da equipe de desenvolvimento e dos projetos e tarefas. Definição de prioridades, escopo técnico e requisitos das implementações necessárias, além de definir as principais regras de negócio destas implementações.
+			<br><br>
+			<h4>06/2019 - 03/2021</h4><b>PHP Developer</b><br>Manutenção e desenvolvimento de novas funcionalidades em plataforma própria de eCommerce. Migração da estrutura legada para uma nova abordagem utilizando o conceito de DDD (<i>Domain Driven Design</i>).
+		</li>
+
+		<hr>
+
+		04/2018 – 05/2019<br>
+		<h3>Taxation Mind – <i>Developer</i></h3>
+		<li>
+			Desenvolvimento de sistemas de uso interno e externo para realização de análises ficais. <i>Crawling</i> e <i>ETL</i> de notas fiscais eletrônica e outros documentos fiscais.
+		</li>
+		<span class="pagebreak"></span>
+		<hr>
+
+		01/2016 – 08/2016<br>
+		<h3>Zoomin.TV – Recrutamento e Gerenciamento de Influenciadores</h3>
+		<li>
+			Responsável pelo recrutamento de Youtubers e influenciadores para a Network da Zoomin.TV. Responsável tambem pelo desenvolvimento de ações de <i>Branded Content</i> e sugestão de influenciadores para essas ações.
+		</li>
+
+		<hr>
+
+		09/2009 – 03/2015<br>
+		<h3>Band.com.br / Rede Bandeirantes – Programador.</h3>
+		<li>
+			<h4>02/2011 - 03/2015</h4>Coordenador de Áudio e Vídeo do portal Band.com.br.<br>Gestão e manutenção das políticas de matching do Youtube (Content ID) e automatização do processo de upload dos vídeos de referência. Gestão e manutenção da infraestrutura de streaming e dos serviços on demand de distribuição de vídeos. Planejamento e coordenação técnica em coberturas externas, entre elas do Miss Universo 2011, do BandFolia em Salvador e da etapa paulistana da Fórmula Indy. Operação de switcher para transmissões livestreaming.
+			<br><br>
+			<h4>09/2009 - 02/2011</h4>Suporte ao portal Band.com.br e seu sistema de publicação, desenvolvimento de novos sites, e suporte a manutenção aos blogs do portal. Projetos desenvolvidos em ASP, PHP, .NET e/ou AS2, com os bancos MySQL e MS-SQL.<br>
+			Coordenação da implantação da Sambatech como fornecedor de estrutura de vídeos do portal e migração do acervo.<br>
+			Coordenação da implatação da Stream The World como fornecedor de Streaming em áudio do portal.
+		</li>
+
+		<hr>
+
+		07/2008 – 03/2009<br>
+		<h3>Sambarella – Sócio-Diretor de Tecnologia.</h3>
+		<li>
+			Gerenciamento dos projetos que envolviam tecnologia. Programação em Flash, com domínio completo em AS2 e algumas experiências com AS3. Desenvolvimento de CMS simples em PHP usando o framework Symfony. Mashup com os principais sites de redes sociais (twitter, flickr, youtube).
+		</li>
+
+		<hr>
+		
+		02/2007 – 07/2008<br>
+		<h3>iDeal Interactive – Programador Flash Pleno.</h3>
+		<li>
+			Integração de sites em Flash com dados externos, utilizando JSON ou XML. Integração do Flash com o sistema de blogs WordPress.
+		</li>
+
+		<hr>
+
+		08/2006 – 02/2007<br>
+		<h3>WDM – Programador Flash.</h3>
+		<li>
+			Programação em Flash avançado, desenvolvendo jogos e conteúdo de interação pra hotsites e conteúdo pra aba do MSN. Estudos de interação com webcam e animações.
+		</li>
+
+		<hr>
+
+		10/2005 – 08/2006<br>
+		<h3>Colletivo – Consultor de Tecnologia.</h3>
+		<li>
+			Desenvolvimento de sistemas para gerenciamento de conteúdo para sites e portais, utilizando principalmente PHP e MySql. Integração do conteúdo com o Flash.
+		</li>
+
+		<hr>
+
+		03/2005 – 10/2005<br>
+		<h3>Lumina 1 – Programador Flash+PHP.</h3>
+		<li>
+			Programação em Flash avançado, usando conteúdo dinâmico integrado com XML. Projetos tanto de animação como action script, tendo por principal cliente a Natura.
+		</li>
+
+		<hr>
+
+		03/2003 – 03/2005<br>
+		<h3>Mezcla Design - Designer.</h3>
+		<li>
+			Desenvolvimento de projetos para mídias digitais e impressas, participando desde a concepção do projeto, passando pelo seu desenvolvimento, até a finalização.
+		</li>
+		<hr>
+		<span class="pagebreak"></span>
+		<h2>Palestras Realizadas:</h2>
+		<h3>Design e Responsabilidade Social</h3>
+		Nessa palestra eu ressalto a importância do profissional se preocupar em desenvolver trabalhos levando em consideração aspectos sociais, e apresento possibilidades para atuar nessa esfera.<br>
+		Onde: R Design Sul – Encontro Regional dos Estudantes de Design 2005. – Florianópolis/SC<br>
+		<br>
+		<br>
+		<h2>Oficinas Ministradas:</h2>
+		<h3>Pensar Dinâmico</h3>
+		Utilizando exemplos de projetos multimídia, proponho uma metodologia de trabalho um pouco diferenciada do que hoje é aplicada em muitas empresas. Nessa metodologia valorizo a etapa onde organiza-se o conteúdo, e a forma de apresentação e armazenamento, e desenvolvendo cada uma das áreas como um módulo independente, facilitando assim, tanto a atualização, como a manutenção da peça desenvolvida.<br>
+		Onde: PUC Curitiba, 2006 e 2007.<br>
+		</div>
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+		_uacct = "UA-546148-1";
+		urchinTracker();
+		</script>
+
+	</body>
+
+</html>
