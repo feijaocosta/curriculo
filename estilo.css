@@ -1,0 +1,84 @@
+@charset "UTF-8";
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	width: 100%;
+}
+
+div {
+	width: 700px;
+	margin: 0 auto;
+}
+h1 {
+	font-weight: bold;
+	font-size: 40px;
+	margin: 0px 0px 20px 0px;
+}
+
+h2 {
+	font-size: 26px;
+	margin: 0px 0px 10px 0px;
+}
+
+h3{
+	font-weight: bold;
+	font-size: 14px;
+	margin: 5px 0px 5px 0px;
+}
+
+h4{
+	font-weight: normal;
+	font-style: italic;
+	font-size: 12px;
+	margin: 0px 5px 0px 0px;
+	float: left;
+}
+
+hr{
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+a{
+	color: #ffffff;
+	text-decoration: none;
+	background: #333333;
+}
+
+a:hover{
+	background: blue;
+}
+
+li{
+	list-style: none;
+	margin-left: 30px;
+	margin-bottom: 0px;
+}
+div#logo{
+	background: url('logo_pb.png') no-repeat;
+	width: 162px;
+	height: 127px;
+	font-size: 0px;
+	float: right;
+	display: none;
+}
+
+div#share{
+	width: 100px;
+	height: 100px;
+	float: right;
+	display: none;
+}
+
+.pagebreak { 
+	display: block;
+	break-before: always;
+	page-break-after: always; 
+}
+
+.col-right {
+    float: right;
+    text-align: right;
+    width: 320px;
+    margin-right: 10px;
+}
